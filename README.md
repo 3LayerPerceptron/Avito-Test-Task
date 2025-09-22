@@ -14,6 +14,7 @@
 ## Данные полученные из общего доступа
 
 Словарь взят отсюда: https://www.kaggle.com/datasets/rtatman/opencorpora-russian
+
 Модель взята отсюда: https://huggingface.co/kplro/rugpt3small_based_on_gpt2-l2_russian_10_epoch
 
 ## Рассуждения (продублировал в readme на всякий)
